@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.461,E:\Belgelerim\Embarcadero\Studio\Projects\Project1.dproj=E:\Masaüstü\Project20.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.230,=E:\Belgelerim\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.269,E:\Belgelerim\Embarcadero\Studio\Projects\Unit1.pas=E:\Masaüstü\Not ort\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.111,E:\Masaüstü\Not ort\Unit1.dfm=E:\Masaüstü\Unit19.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.269,E:\Belgelerim\Embarcadero\Studio\Projects\Unit1.dfm=E:\Masaüstü\Not ort\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.111,E:\Masaüstü\Not ort\Unit1.pas=E:\Masaüstü\Unit19.pas</Transaction>
+  </Transactions>
+</BorlandProject>
